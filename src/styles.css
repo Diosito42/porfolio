@@ -82,6 +82,14 @@ p{
 }
 
 .socials{
-    padding-bottom: 200px;
-    
+    padding-bottom: 200px;   
+}
+
+.logo{
+    height: 200px;
+    margin: 30px;
+}
+
+.social{
+    margin: 20px;
 }
